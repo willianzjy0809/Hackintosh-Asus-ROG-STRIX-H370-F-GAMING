@@ -11,4 +11,19 @@
 	Cooler Master MWE Gold 550 Full Modular PSU / PC voeding
 	NZXT H510 Black - Black Midi Tower Behuizing
 	
+	--To be added - BCM94360CS2 Combo--
+	
+## Software Specs	
+	Windows 10 Pro
+	Mac OS X 10.15.2
+	
+## What is working
+	Screen
+	Graphic card
+	Power
+	Sleep
+	Wakeup
+	Input
+	USB
+	Ethernet
 	

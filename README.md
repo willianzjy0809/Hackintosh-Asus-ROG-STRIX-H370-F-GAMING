@@ -27,3 +27,10 @@
 	USB
 	Ethernet
 	
+	
+## Keyboard
+	Only working in Bluetooth mode.
+	This is the most strangest part.
+	Usb now is used for power supplier.
+	
+	

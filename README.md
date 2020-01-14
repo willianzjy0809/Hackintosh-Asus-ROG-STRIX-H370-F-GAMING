@@ -10,27 +10,27 @@
 	Cooler Master MasterAir MA410P
 	Cooler Master MWE Gold 550 Full Modular PSU / PC voeding
 	NZXT H510 Black - Black Midi Tower Behuizing
-	
-	--To be added - BCM94360CS2 Combo--
+	BCM94360CS2 Combo WIFI + Bluetooth
 	
 ## Software Specs	
 	Windows 10 Pro
 	Mac OS X 10.15.2
 	
 ## What is working
-	Screen
-	Graphic card
-	Power
-	Sleep
-	Wakeup
-	Input
-	USB
-	Ethernet
+	Screen - sometimes can't show in boot screen.
+	Graphic card - RX 5700 good performance
+	Power - Sleep / Wake up
+	Input - Mouse
+	USB - All USB with full speed
+	Ethernet - Working
+	Wireless & Bluetooth - Working
 	
 	
 ## Keyboard
+	filco majestouch convertible 2 
 	Only working in Bluetooth mode.
 	This is the most strangest part.
-	Usb now is used for power supplier.
+	Usb now is used for power supplier, switch perfect working.
+	In windows, I can use USB to get a faster response.
 	
 	
